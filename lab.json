@@ -1,0 +1,7 @@
+{
+    "name": "Some SQLi Lab 2",
+    "category": "Web",
+    "author": "bongtrop",
+    "flag": "",
+    "detail": "Blacklist-based SQLi protection bypass lab 2 (harder than some-sqli-lab 1 a little bit)"
+}
