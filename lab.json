@@ -2,6 +2,6 @@
     "name": "Some SQLi Lab 2",
     "category": "Web",
     "author": "bongtrop",
-    "flag": "",
+    "flag": "245d2f295b780703483931e06ede5ea9,65e8bf51ff377747915f435956baede2,0dee13765ff456b023d6d84d1feab11b,c6e6f0a1d20788ce9e266789cea2890c25cb3551504d7a848f81d9a431721142942051d4ea49c27496fec41e05fb824539df082371764ba34036c5b5,e0b8e91203490b64faf805db893037cf",
     "detail": "Blacklist-based SQLi protection bypass lab 2 (harder than some-sqli-lab 1 a little bit)"
 }
